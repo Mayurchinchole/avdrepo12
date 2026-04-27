@@ -1,0 +1,1 @@
+print ('mayur get 10lpa')
